@@ -42,22 +42,22 @@ JAVASCRIPT LOGICAL OPERATORS
 
 JAVASCRIPT FUNCTIONS
 -----------------
-var a = function name() {}
-function name() {}
-return
-<!-- () => (new in ECMAScript 6) -->
+- var a = function name() {}
+- function name() {}
+- return
+- <!-- () => (new in ECMAScript 6) -->
 
 JAVASCRIPT DATA STRUCTURES
 -----------------
-Array
-Object
+- Array
+- Object
 
 JAVASCRIPT LOOPING
 -----------------
-for
-while
-do 
-forEach (new in ECMAScript 5) 
+- for
+- while
+- do 
+- forEach (new in ECMAScript 5) 
 
 
 JAVASCRIPT KEYWORDS
